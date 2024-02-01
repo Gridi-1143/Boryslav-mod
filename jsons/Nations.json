@@ -28,7 +28,7 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [0, 0, 0],
-		"innerColor": [200, 255, 200],
+		"innerColor": [255, 255, 255],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Boryslav","Symonanka","Kovaliva"]
 	}
