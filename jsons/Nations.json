@@ -29,7 +29,9 @@
 
 		"outerColor": [15, 25, 20],
 		"innerColor": [255, 255, 255],
-		"unique": "MANIFEST_DESTINY",
+		"uniques":[ "Double quantity of [Oil] produced",
+			"Units ignore terrain costs when moving into any tile with Hills",
+			],
 		"cities": ["Boryslav","Symonenka","Kovaliva","Tustanovychi","Shevchenka"]
 	}
 ]
