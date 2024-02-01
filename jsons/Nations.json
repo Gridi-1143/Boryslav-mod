@@ -6,13 +6,13 @@
 		"startBias": ["Hills"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "You stand on the land where oil flows from the ground",
+		"startIntroPart2": "Ihor Yavorskyi, Boryslav once was a thriving city, can you bring back the glory it held and defend this land from envious invaders? ",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Let's see whose side will gods take.",
+		"attacked": "You think you have a chance?",
+		"defeated": "Can't believe I am defeated, you are no ordinary leader!",
+		"introduction": "Greetings, i hope we will get along.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -24,12 +24,12 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Very well, all that fighting was tiresome",
+		"tradeRequest": "I hope you will agree to my offer",
 
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Boryslav","Symonanka","Kovaliva"]
+		"cities": ["Boryslav","Symonenka","Kovaliva","Tustanovychi","Shevchenka"]
 	}
 ]
