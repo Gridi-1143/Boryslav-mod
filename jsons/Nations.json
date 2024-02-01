@@ -1,9 +1,9 @@
 [
 	{
 		"name": "Boryslav",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"leaderName": "Ihor Yavorsyi",
+		"adjective": ["Boryslavian"],
+		"startBias": ["Hills"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
