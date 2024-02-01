@@ -3,7 +3,7 @@
 		"name": "Boryslav",
 		"leaderName": "Ihor Yavorskyi",
 		"adjective": ["Boryslavian"],
-		"startBias": ["Hills","Avoid [Jungle]"],
+		"startBias": ["Hills","Avoid [Snow]","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "You stand on the land where oil flows from the ground",
