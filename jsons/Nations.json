@@ -27,7 +27,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [41, 42, 38],
+		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Boryslav","Symonanka","Kovaliva"]
