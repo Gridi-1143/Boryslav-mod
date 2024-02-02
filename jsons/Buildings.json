@@ -2,12 +2,11 @@
 	{
 		"name": "Kopalna",
 		"uniqueTo": "Boryslav",
-		"cost": 185,
 		"happiness": 2,
 		"maintenance": 1,
 		"uniques":["[+2 Culture] from [Mountain] tiles [in this city]"],
 		"isWonder": true,
-		"requiredTech": "Mining",
-		"quote":"It is not hard to avoid mountains, but to accept them"
+		"requiredTech": "Construction",
+		"quote":"It is hard not to avoid mountains, but to accept them"
 	}
 ]
