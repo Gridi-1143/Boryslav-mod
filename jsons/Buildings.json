@@ -1,15 +1,13 @@
 [
 	{
 		"name": "Kopalna",
-		"replaces": "Circus Maximus",
 		"uniqueTo": "Boryslav",
-		"cost": 200,
-		"happiness": 4,
-		"culture": 1,
-		"science": 2,
-		"maintenance": 2,
-		"uniques":["[+3 Culture] from [Mountain] tiles [in this city]"],
-		"isNationalWonder": true,
-		"requiredTech": "Horseback Riding"
+		"cost": 185,
+		"happiness": 2,
+		"maintenance": 1,
+		"uniques":["[+2 Culture] from [Mountain] tiles [in this city]"],
+		"isWonder": true,
+		"requiredTech": "Mining",
+		"quote":"It is not hard to avoid mountains, but to accept them"
 	}
 ]
