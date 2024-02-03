@@ -1,12 +1,14 @@
 [
 	{
-		"name": "Oilman",
-		"unitType": "Civilian",
+		"name": "Barab",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
 		"uniqueTo": "Boryslav",
 		"movement": 2,
-		"strength": 90,
-		"cost": 40,
-		"requiredTech": "Engineering",
+		"strength": 17,
+		"cost": 100,
+		"requiredTech": "Steel",
+		"promotions": [""],
 		"attackSound": "phasers"
 	}
 ]
