@@ -9,7 +9,7 @@
 		"cost": 100,
 		"maintenance": 1,
 		"requiredTech": "Steel",
-		"promotions": ["The more the better""],
+		"promotions": ["The more the better"],
 		"attackSound": "phasers"
 	}
 ]
