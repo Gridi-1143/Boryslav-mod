@@ -7,8 +7,9 @@
 		"movement": 2,
 		"strength": 17,
 		"cost": 100,
+		"maintenance": 1,
 		"requiredTech": "Steel",
-		"promotions": [""],
+		"promotions": ["The more the better""],
 		"attackSound": "phasers"
 	}
 ]
