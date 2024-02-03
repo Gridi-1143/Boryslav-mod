@@ -1,8 +1,8 @@
 [
 	{
 	"name": "The more the better",
-    	"uniques":[
-		"[+50]% Strength <for [Barab] units> <when adjacent to a [Barab] unit>
-		]
+    	"uniques": [
+                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
+                ],
 	}
 ]
