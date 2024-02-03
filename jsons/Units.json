@@ -9,6 +9,6 @@
 		"cost": 100,
 		"requiredTech": "Steel",
 		"promotions": ["The more the better"],
-		"attackSound": "phasers"
+		"attackSound": "attack"
 	}
 ]
