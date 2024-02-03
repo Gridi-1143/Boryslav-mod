@@ -6,7 +6,7 @@
 		"cityStrength": 2,
 		"cityHealth": 10,
 		"maintenance": 1,
-		"uniques":["[+2 Culture] from [Mountain] tiles [in this city]","[+2 cityStrength] from [Mountain] tiles [in this city]"],
+		"uniques":["[+2 Culture] from [Mountain] tiles [in this city]","[+2 Strength] from [Mountain] tiles [in this city]"],
 		"isWonder": true,
 		"requiredTech": "Construction",
 		"quote":"It is hard not to avoid mountains, but to accept them"
