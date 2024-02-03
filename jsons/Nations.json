@@ -27,7 +27,7 @@
 		"afterPeace": "Very well, all that fighting was tiresome",
 		"tradeRequest": "I hope you will agree to my offer",
 
-		"outerColor": [15, 25, 20],
+		"outerColor": [40, 40, 40],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Mountain's gift",
 		"uniques":["Units ignore terrain costs when moving into any tile with Hills",
