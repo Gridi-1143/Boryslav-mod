@@ -5,7 +5,7 @@
 		"replaces": "Longswordsman",
 		"uniqueTo": "Boryslav",
 		"movement": 2,
-		"strength": 17,
+		"strength": 18,
 		"cost": 100,
 		"requiredTech": "Steel",
 		"promotions": ["The more the better"],
