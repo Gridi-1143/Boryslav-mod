@@ -2,7 +2,7 @@
 	{
 	"name": "The more the better",
     	"uniques": [
-                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
+                    "[+50]% Strength <for [Barab] units> <when adjacent to a [Barab] unit>"
                 ],
 	}
 ]
