@@ -15,17 +15,9 @@
 		"introduction": "Greetings, i hope we will get along.",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was tiresome",
-		"tradeRequest": "I hope you will agree to my offer",
+		"afterPeace": "Very well, all that fighting was tiresome.",
+		"tradeRequest": "I hope you will accept my offer.",
 
 		"outerColor": [40, 40, 40],
 		"innerColor": [255, 255, 255],
