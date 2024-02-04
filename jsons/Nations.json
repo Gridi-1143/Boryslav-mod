@@ -21,7 +21,7 @@
 
 		"outerColor": [40, 40, 40],
 		"innerColor": [255, 255, 255],
-		"uniqueName": "Mountain's gift",
+		"uniqueName": "Mountain's gifts",
 		"uniques":["Units ignore terrain costs when moving into any tile with Hills",
 			"Double quantity of [Oil] produced",
 			"No Maintenance costs for improvements in [Hill] tiles"],
