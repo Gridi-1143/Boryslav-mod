@@ -2,7 +2,7 @@
 	{
 		"name": "Ancient passages",
 		"uniqueTo": "Boryslav",
-		"cityHealth": 10,
+		"cityHealth": 15,
 		"uniques":["[+2 Culture, +2 Science] from [Mountain] tiles [in this city]"],
 		"isWonder": true,
 		"requiredTech": "Construction",
