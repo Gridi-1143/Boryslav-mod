@@ -8,6 +8,9 @@
 		"strength": 18,
 		"cost": 100,
 		"requiredTech": "Steel",
+		"uniques": [
+                    "[+33]% Strength <for [Barab] units> <when adjacent to a [Barab] unit>"
+                ],
 		"promotions": ["The more the better"],
 		"attackSound": "nonmetalhit"
 	}
