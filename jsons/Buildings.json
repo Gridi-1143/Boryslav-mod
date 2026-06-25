@@ -8,12 +8,4 @@
 		"requiredTech": "Construction",
 		"quote":"It is hard not to avoid mountains, but to accept them"
 	}
-
-    {
-        "name": "Oil well",
-        "turnsToBuild": 5,
-        "uniques": [
-            "Double the production of [Oil] from [Oil well]"
-        ]
-    }
 ]
