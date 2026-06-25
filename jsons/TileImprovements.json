@@ -1,6 +1,6 @@
 [
     {
-        "name": "Advanced Oil well",
+        "name": "Advanced oil well",
         "turnsToBuild": 5,
         "uniqueTo": "Boryslav",
         "replaces": "Oil well"
