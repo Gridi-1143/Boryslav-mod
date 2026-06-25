@@ -24,7 +24,7 @@
 		"uniqueName": "Mountain's gifts",
 		"uniques":["Units ignore terrain costs when moving into any tile with Hills",
 			"[+100]% [Oil] resource production",
-			"No Maintenance costs for improvements in [Rough terrain] tiles"],
+			"No Maintenance costs for improvements in [Hill] tiles"],
 		"cities": ["BORYSLAV","Banya","Hubychi","Mrazhnytsya","Tustanovychi","Symonenka","Kovaliva","Shevchenka","Truskavetska"]
 	}
 ]

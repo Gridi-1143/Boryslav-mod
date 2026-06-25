@@ -3,7 +3,7 @@
 		"name": "Ancient passages",
 		"uniqueTo": "Boryslav",
 		"cityHealth": 15,
-		"uniques":["[+2 Culture, +2 Science] from [Rough terrain] tiles [in this city]"],
+		"uniques":["[+2 Culture, +2 Science] from [Mountain] tiles [in this city]"],
 		"isWonder": true,
 		"requiredTech": "Construction",
 		"quote":"It is hard not to avoid mountains, but to accept them"
